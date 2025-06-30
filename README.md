@@ -1,4 +1,4 @@
-**Simqle Note taking app**
+**Simple Note taking app**
 
 made by using mongodb, express, react and node.js
 
